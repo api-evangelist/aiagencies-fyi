@@ -64,5 +64,131 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-AIAgencies is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://aiagencies.fyi
+AIAgencies operates a directory that lets users find and compare AI agencies by city, country, and service type. It lists agencies offering AI development, automation, consulting, agents, chatbots, and related services, and provides tools for project scoping and price comparison.
+
+**Areas:** AI · Directory · Marketplace · Agencies · Services · Company
+
+## AIAgencies on APIs.io
+
+Everything profiled for AIAgencies is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/aiagencies-fyi/](https://apis.io/providers/aiagencies-fyi/)** — or go straight to one of the APIs or properties below.
+
+### APIs (11)
+
+- [AIAgencies Academy API](https://apis.io/apis/aiagencies-fyi/aiagencies-fyi-academy-api/) — The Academy API from AIAgencies — 2 operation(s) for academy.
+- [AIAgencies Admin API](https://apis.io/apis/aiagencies-fyi/aiagencies-fyi-admin-api/) — The Admin API from AIAgencies — 160 operation(s) for admin.
+- [AIAgencies Categories API](https://apis.io/apis/aiagencies-fyi/aiagencies-fyi-categories-api/) — The Categories API from AIAgencies — 1 operation(s) for categories.
+- [AIAgencies Certificates API](https://apis.io/apis/aiagencies-fyi/aiagencies-fyi-certificates-api/) — The Certificates API from AIAgencies — 1 operation(s) for certificates.
+- [AIAgencies Listings API](https://apis.io/apis/aiagencies-fyi/aiagencies-fyi-listings-api/) — The Listings API from AIAgencies — 2 operation(s) for listings.
+- [AIAgencies Places API](https://apis.io/apis/aiagencies-fyi/aiagencies-fyi-places-api/) — The Places API from AIAgencies — 1 operation(s) for places.
+- [AIAgencies Product Categories API](https://apis.io/apis/aiagencies-fyi/aiagencies-fyi-product-categories-api/) — The Product Categories API from AIAgencies — 1 operation(s) for product categories.
+- [AIAgencies Products API](https://apis.io/apis/aiagencies-fyi/aiagencies-fyi-products-api/) — The Products API from AIAgencies — 2 operation(s) for products.
+- [AIAgencies Sources API](https://apis.io/apis/aiagencies-fyi/aiagencies-fyi-sources-api/) — The Sources API from AIAgencies — 1 operation(s) for sources.
+- [AIAgencies Sponsor API](https://apis.io/apis/aiagencies-fyi/aiagencies-fyi-sponsor-api/) — The Sponsor API from AIAgencies — 2 operation(s) for sponsor.
+- [AIAgencies Stats API](https://apis.io/apis/aiagencies-fyi/aiagencies-fyi-stats-api/) — The Stats API from AIAgencies — 1 operation(s) for stats.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [AIAgencies Agentic Access](https://apis.io/agentic-access/aiagencies-fyi/aiagencies-fyi-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [Certificate](https://apis.io/schemas/aiagencies-fyi/aiagencies-fyi-certificate/)
+- [Course](https://apis.io/schemas/aiagencies-fyi/aiagencies-fyi-course/)
+- [CourseDetail](https://apis.io/schemas/aiagencies-fyi/aiagencies-fyi-course-detail/)
+- [Listing](https://apis.io/schemas/aiagencies-fyi/aiagencies-fyi-listing/)
+- [ListingItem](https://apis.io/schemas/aiagencies-fyi/aiagencies-fyi-listing-item/)
+- [Product](https://apis.io/schemas/aiagencies-fyi/aiagencies-fyi-product/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Aiagencies Fyi Context](https://apis.io/jsonld/aiagencies-fyi/aiagencies-fyi-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [AIAgencies API Rules](https://apis.io/rules/aiagencies-fyi/aiagencies-fyi-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [AIAgencies Domain Security](https://apis.io/security/aiagencies-fyi/aiagencies-fyi-domain-security/)
+- [AIAgencies Vulnerability Disclosure](https://apis.io/security/aiagencies-fyi/aiagencies-fyi-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://aiagencies.fyi)
+- [Documentation](https://aiagencies.fyi/developers)
+- [API reference](https://aiagencies.fyi/api/v1/openapi.json)
+- [Support](https://aiagencies.fyi/contact)
+- [Terms of service](https://aiagencies.fyi/terms)
+- [Privacy policy](https://aiagencies.fyi/privacy)
+
+## API Evangelist rating
+
+**Kin Score 43.6** — developing · rubric 0.28.0 · scored 2026-11-16
+
+| Facet | Score |
+|---|---|
+| Discoverability | 78.6 |
+| Contract quality | 51.9 |
+| Contract governance | 79.1 |
+| Operational transparency | 9.5 |
+| Developer ergonomics | 37.4 |
+| Access clarity | 17.0 |
+
+**Agent readiness 47.5** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | — |
+| Rate Limit Signal | verified |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | conformant |
+| Dry Run Mode | yes |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | — |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 22.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/aiagencies-fyi/](https://apis.io/providers/aiagencies-fyi/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for AIAgencies: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/aiagencies-fyi/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
